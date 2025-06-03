@@ -211,7 +211,7 @@ public class ProjetoMochila {
         entradaInicial.nextLine();
 
         ProjetoMochila minhaMochila = new ProjetoMochila(capacidadeDaMochila);
-
+        int i = 0;
         entradaInicial.close();
     }
 }
